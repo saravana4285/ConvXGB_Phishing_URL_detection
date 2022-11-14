@@ -1,0 +1,3 @@
+Exploratory Data Analysis 
+To infer many insights
+To plot various graphical plot to understand the data better
