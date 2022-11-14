@@ -1,0 +1,1 @@
+batch_size determines the size of the training data to be pushed btw fast forwarfing.
