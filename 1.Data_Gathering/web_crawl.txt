@@ -1,0 +1,4 @@
+Instruction to use the "1.txt2image_transformation.py"
+This script will look for input file through pyqt web browser.
+Input file should only have two columns, one is for rec_id and the other one is for url
+Depending on your inernet speed this script may consume more time.
