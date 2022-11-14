@@ -1,0 +1,2 @@
+Exploratory Data Analysis 
+Various Graphical Charts were plotted to understand the dataset better.
